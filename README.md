@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Software Clean Code & Architecture**
 
-- 👨‍💻 All of my projects are available at [https://saleh-azzaoui.vercel.app/](https://saleh-azzaoui.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://saleh-azzaoui.vercel.app/](https://my-portfolio-salehazzaoui.vercel.app/)
 
 - 💬 Ask me about **React, Vue, Laravel, PHP, Flutter**
 
